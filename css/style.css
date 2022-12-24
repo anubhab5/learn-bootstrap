@@ -64,12 +64,12 @@ body {
 }
 
 .blue {
-    background-color: blue;
-    color           : rgb(148, 141, 141);
+    background-color: #4aa6ee;
+    color           : black
 }
 
 .orange {
-    background-color: orange;
+    background-color: #f39c12;
 }
 
 .green {
@@ -78,4 +78,8 @@ body {
 
 .big {
     font-size: 2rem;
+}
+
+.h-400px {
+    height: 600px;
 }
