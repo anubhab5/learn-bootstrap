@@ -1,9 +1,9 @@
 .container {
-    border: 1px solid black;
+    border: 8px solid black;
 }
 
 .row {
-    border: 1px solid red;
+    border: 2px solid red;
 }
 
 .col-md,
