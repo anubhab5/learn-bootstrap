@@ -75,3 +75,7 @@ body {
 .green {
     background-color: yellowgreen;
 }
+
+.big {
+    font-size: 2rem;
+}
