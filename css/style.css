@@ -76,6 +76,10 @@ body {
     background-color: yellowgreen;
 }
 
+.cyan {
+    background-color: darkturquoise;
+}
+
 .big {
     font-size: 2rem;
 }
